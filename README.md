@@ -81,6 +81,12 @@ This command will move the starter code to the **app-example** directory and cre
 3. Appwrite aggregates metrics to generate a list of top trending movies.
 4. Trending movies are fetched and displayed dynamically on the home screen.
 
+## 📸 Screenshots
+
+![Home Screen](assets/screenshots/Home.PNG)
+![Movie Details 1](assets/screenshots/Movie2.PNG)
+![Movie Details 1](assets/screenshots/Movie1.PNG)
+
 To learn more about developing your project with Expo, look at the following resources:
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
