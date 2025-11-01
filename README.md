@@ -83,9 +83,11 @@ This command will move the starter code to the **app-example** directory and cre
 
 ## 📸 Screenshots
 
-![Home Screen](assets/screenshots/Home.PNG)
-![Movie Details 1](assets/screenshots/Movie2.PNG)
-![Movie Details 1](assets/screenshots/Movie1.PNG)
+<p align="center">
+  <img src="assets/screenshots/Home.PNG" alt="Home Screen" width="250" />
+  <img src="assets/screenshots/Movie2.PNG" alt="Movie Details 1" width="250" />
+  <img src="assets/screenshots/Movie1.PNG" alt="Movie Details 2" width="250" />
+</p>
 
 To learn more about developing your project with Expo, look at the following resources:
 
